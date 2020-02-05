@@ -1,5 +1,5 @@
 import { mount } from '@vue/test-utils'
-import Education from "../../Home/Education.vue"
+import Education from "../../src/pages/Home/Education.vue"
 
 const wrapper = mount(Education);
 
