@@ -1,5 +1,5 @@
 import { mount } from '@vue/test-utils'
-import Experience from "../../Home/Experience.vue"
+import Experience from "../../src/pages/Home/Experience.vue"
 
 const wrapper = mount(Experience);
 

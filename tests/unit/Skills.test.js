@@ -1,5 +1,5 @@
 import { mount } from '@vue/test-utils'
-import Skills from "../../Home/Skills.vue"
+import Skills from "../../src/pages/Home/Skills.vue";
 
 const wrapper = mount(Skills);
 

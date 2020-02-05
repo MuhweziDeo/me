@@ -27,7 +27,7 @@
           <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#awards">Projects</a>
+          <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
         </li>
       </ul>
     </div>
