@@ -1,24 +1,14 @@
-# me
+# My Profile
 
-## Project setup
-```
-yarn install
-```
+[![Netlify Status](https://api.netlify.com/api/v1/badges/62dc20cc-b0ae-4be8-9b10-1a61587c68fd/deploy-status)](https://app.netlify.com/sites/deo-muhwezi/deploys)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+[![Build Status](https://travis-ci.org/MuhweziDeo/me.svg?branch=master)](https://travis-ci.org/MuhweziDeo/me)
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
+### Dependencies
+- Vue js
+- Bootstrap
+- Netlify
+- Travis CI
 
 ### credits
 https://startbootstrap.com/themes/resume/
