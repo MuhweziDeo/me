@@ -2,6 +2,21 @@
     <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
         <div class="w-100">
             <h2 class="mb-5">Experience</h2>
+            
+            <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+                <div class="resume-content">
+                    <h3 class="mb-0">Lead Frontend and Mobile Engineer </h3>
+                    <div class="subheading mb-3"><a href="https://www.codejunto.com/">CodeJunto  /   SsemocoTechnologies</a></div>
+                    <p>
+                        Iam currently working on<a href="https://lendborrowbuy.com/">LendBorrowBuy</a>
+                        which is is an online open community rental marketplace where you can lend, borrow and buy! Simply put, we are connecting people who have, with those that don’t. In other words, we created a “shareconomy” platform that everyone can benefit from. Our focus is to help everyone become micro-entrepreneurs by turning their everyday, under-utilized items
+                         or “assets” into profit generating resources. This is how you “make your assets work for you!”
+                    </p>
+                </div>
+                <div class="resume-date text-md-right">
+                    <span class="text-primary">Feb 2020 - Present</span>
+                </div>
+            </div>
 
             <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div class="resume-content">
@@ -13,7 +28,7 @@
                     </p>
                 </div>
                 <div class="resume-date text-md-right">
-                    <span class="text-primary">October 2019 - Present</span>
+                    <span class="text-primary">October 2019 - Feb 2020</span>
                 </div>
             </div>
 
