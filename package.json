@@ -1,0 +1,12 @@
+{
+  "name": "me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MuhweziDeo/me.git",
+  "author": "<aggrey256@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev:backend": "cd cms/ && yarn run develop",
+    "dev:frontend": "cd web/ && yarn start"
+  }
+}
